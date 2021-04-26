@@ -1,0 +1,19 @@
+.button {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #F5F5F5;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 40px;
+}
+.button:focus{
+    outline: none;
+}
+
+.button:hover{
+    filter: brightness(200%)
+}
+
+.backButton {
+    background-color: rgb(58, 73, 29);
+}
